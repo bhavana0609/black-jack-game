@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color:aquamarine;
+
+}
+h2{
+    text-align: left;
+    color:aquamarine;
+
+}
+
+body{
+    background-color: darkgreen;
+    background-size: cover;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bold;
+    text-align: center;
+
+
+}
+#message{
+    font-style:italic;
+}
+#button{
+    width: 150px;
+}
